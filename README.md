@@ -1,6 +1,7 @@
 **Reference**
 
 - D. Chen, W. Hong, and X. Zhou, "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022.
+- @ check https://github.com/jiaxiang-cheng/PyTorch-Transformer-for-RUL-Prediction.git
 
 **Packages**
 
